@@ -40,7 +40,7 @@ https://github.com/Umesh2202/To-do-list/pulls
  
  5. Make a to do list :muscle:
 
-#### Method 2:
+#### Method 2: Click! :computer_mouse:
 Just click on the link :
 <a href="https://umesh2202.github.io/To-do-list/">https://umesh2202.github.io/To-do-list/</a>
 
