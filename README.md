@@ -6,10 +6,10 @@ You can add your todo items in this list</p>
 Deleting a todo option not added yet but will be added soon :grinning:
 
 ## Images of the project
-
+https://github.com/Umesh2202/To-do-list/pulls
 ## How to use the to do list
-### Their are two ways to use the list
-#### Method 1: Cloning
+### Their are two ways to use the list :v:
+#### Method 1: Cloning 
 1. Clone the repo using https/ssh 
   ```
   git clone https://github.com/Umesh2202/To-do-list.git
