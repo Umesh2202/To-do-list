@@ -28,10 +28,10 @@ https://github.com/Umesh2202/To-do-list/pulls
   ```
   code .
   ```
-  OR
-  
   
   For vs code :point_up_2:
+  
+  OR
   
   
   Just double click on `index.html` it to open it in your default browser 
