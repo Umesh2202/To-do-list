@@ -5,8 +5,8 @@
 You can add your todo items in this list</p>
 Deleting a todo option not added yet but will be added soon :grinning:
 
-## Images of the project
-https://github.com/Umesh2202/To-do-list/pulls
+## Image of the project
+![SS](https://user-images.githubusercontent.com/79990168/169248185-98f8e2d9-7610-4ed0-8c63-01778ca7686e.jpg)
 ## How to use the to do list
 ### Their are two ways to use the list :v:
 #### Method 1: Cloning 
